@@ -4,5 +4,6 @@
 *.tfstate
 *.tfstate.backup
 terra-key-ec2
+terra-key-ec2.pub
 .terraform/
 ec2.tf
